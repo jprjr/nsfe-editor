@@ -6,6 +6,14 @@ Just a dumb lil' tool for editing the tags of an NSFE file.
 
 See the [releases tab](https://github.com/jprjr/nsfe-editor/releases)
 
+## Screenshots
+
+The main editor:
+
+![nsfe editor main window](ss/main.png)
+
+![nsfe track editor](ss/track-editor.png)
+
 ## LICENSE
 
 MIT License (see `LICENSE`)
