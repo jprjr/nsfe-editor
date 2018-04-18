@@ -12,6 +12,8 @@ The main editor:
 
 ![nsfe editor main window](ss/main.png)
 
+The track title editor:
+
 ![nsfe track editor](ss/track-editor.png)
 
 ## LICENSE
